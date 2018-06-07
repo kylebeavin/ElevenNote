@@ -10,7 +10,7 @@ namespace ElevenNote.Services
 {
     class NoteService
     {
-        private readonly Guid _userId;
+        private Guid _userId;
 
         public NoteService(Guid userId)
         {
@@ -27,7 +27,6 @@ namespace ElevenNote.Services
                     Content = model.Content,
                     CreatedUtc = DateTimeOffset.Now
                 };
-
             using (var ctx = new ApplicationDbContext())
             {
                 ctx.Notes.Add(entity);
@@ -52,7 +51,6 @@ namespace ElevenNote.Services
                                     CreatedUtc = e.CreatedUtc
                                 }
                         );
-
                 return query.ToArray();
             }
         }
