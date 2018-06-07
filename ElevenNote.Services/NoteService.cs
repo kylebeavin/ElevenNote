@@ -55,14 +55,14 @@ namespace ElevenNote.Services
             }
         }
 
-        public NoteDetail GetNoteById(int id)
+        public NoteDetail GetNoteById(int noteId)
         {
             using (var ctx = new ApplicationDbContext())
             {
                 var entity =
                     ctx
                         .Notes
-                        .Single(e => e.NoteId == GetNoteById && e.OwnerId == _userId);
+                        .Single(e => e.NoteId == noteId && e.OwnerId == _userId);
                 return
                     new NoteDetail
                     {
