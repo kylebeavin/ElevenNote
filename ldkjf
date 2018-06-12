@@ -1,0 +1,239 @@
+[33mcommit d339c65c4bae83f08e62b65b7f8d2990c572bfe7[m[33m ([m[1;36mHEAD -> [m[1;32m2.2_develop[m[33m)[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Tue Jun 12 15:21:32 2018 -0400
+
+    d
+
+[33mcommit c2f73dff9b8fd5aa0412d302cb6bbaeda83db7ea[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/2.2_develop[m[33m, [m[1;32mmaster[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: a886eed 65af258
+Author: Kyle Beavin <36934353+kylebeavin@users.noreply.github.com>
+Date:   Sat Jun 9 18:11:42 2018 -0400
+
+    Merge pull request #2 from kylebeavin/develop_13-19
+    
+    Develop 13 19
+
+[33mcommit 65af258061a588db46f6675c14e36ac4ac290eb0[m[33m ([m[1;31morigin/develop_13-19[m[33m)[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Sat Jun 9 18:09:10 2018 -0400
+
+    tested my swag
+
+[33mcommit dee17ec1e46b457a7568207b6a8056f17837641e[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Sat Jun 9 16:55:14 2018 -0400
+
+    postman testing complete
+
+[33mcommit c6a03a2bb4bb4a30dbca78d48b41a1b4b9c3ac86[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Sat Jun 9 16:19:13 2018 -0400
+
+    16.0 added Http requests in API controller
+
+[33mcommit ae3a4ca6965813e1838532cfddfe910e0074c7c0[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Sat Jun 9 15:59:57 2018 -0400
+
+    15.0 added controller
+
+[33mcommit af405250e33a4badab2dd51c6cfe8db13a074124[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Sat Jun 9 15:43:20 2018 -0400
+
+    14_WebAPI
+
+[33mcommit 274ad08dec5b5851114d34e3e291387c29875648[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Sat Jun 9 15:12:30 2018 -0400
+
+    RequireHttps
+
+[33mcommit a886eed906f04054b03a8480c558dffc4ddc0ae3[m
+Merge: 02a12a7 dc99dcc
+Author: Kyle Beavin <36934353+kylebeavin@users.noreply.github.com>
+Date:   Fri Jun 8 13:01:31 2018 -0400
+
+    Merge pull request #1 from kylebeavin/develop
+    
+    Develop
+
+[33mcommit dc99dcc0de81c760743eb0da9e9744f0a1eccf07[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Fri Jun 8 13:00:43 2018 -0400
+
+    isstarred property saves
+
+[33mcommit 5b29a0444f46868a2c0f2d5ff1dc0fbe0d657ea4[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Fri Jun 8 12:54:00 2018 -0400
+
+    bug fixed typo
+
+[33mcommit 7011f7aa06532bf58afbb09957e047237d947a8c[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Fri Jun 8 12:33:24 2018 -0400
+
+    creating stars api
+
+[33mcommit 323b013095c767737d5d714a90073d175b595e27[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Fri Jun 8 12:09:53 2018 -0400
+
+    still working on star
+
+[33mcommit 157668fdc718b0972b7bb19a77c049a8d6299cc6[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Fri Jun 8 11:13:41 2018 -0400
+
+    branched and added IsStarred Property
+
+[33mcommit 02a12a763cf478adc421cbc94f02c4fbcc1055ad[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Fri Jun 8 11:06:50 2018 -0400
+
+    changed DateTimeOffset
+
+[33mcommit 0ea5f58407ce9fbb58bc2b0046e7fa254af3de88[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Fri Jun 8 10:09:18 2018 -0400
+
+    delete note works
+
+[33mcommit 7abee02dde9ac24b952f7c281e135df7f5547a44[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Fri Jun 8 10:04:44 2018 -0400
+
+    adding delete POST
+
+[33mcommit 236e91950dbb5793e339e18d6a39a633eb43fc82[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Thu Jun 7 16:57:11 2018 -0400
+
+    overloading edit()
+
+[33mcommit af2ec4e8eaabd11b45532de0a3fa32cafed5393d[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Thu Jun 7 16:41:50 2018 -0400
+
+    edit()
+
+[33mcommit da72dd6ef80493f39a96efe2b3a59fc77c93fcb6[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Thu Jun 7 16:15:25 2018 -0400
+
+    adding detail view
+
+[33mcommit 35f4d8ccff7f8e492897064b135c246495b5e8b1[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Thu Jun 7 15:47:46 2018 -0400
+
+    notedetail()
+
+[33mcommit 298d3b2c35fd9e284bddb313243d0e9807f9c266[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Thu Jun 7 15:42:27 2018 -0400
+
+    kb
+
+[33mcommit b413f1903393278f816373c9574fea4fb48a18ba[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Thu Jun 7 15:02:00 2018 -0400
+
+    kb
+
+[33mcommit bfb8fe1f168ead12dcc1bec8bffa4987f4c493ed[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Thu Jun 7 14:59:23 2018 -0400
+
+    kb
+
+[33mcommit 7e9b65eee562f631f2718ba7c73c94ce96b99e97[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Thu Jun 7 14:50:06 2018 -0400
+
+    adding validation to controller
+
+[33mcommit 8bbba86ffb882d3113e9b98b84f10c324d636090[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Thu Jun 7 14:32:20 2018 -0400
+
+    notecontroller changes
+
+[33mcommit c44dfd60e063d104bef9507a8860a731878427eb[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Thu Jun 7 13:55:36 2018 -0400
+
+    services
+
+[33mcommit 822ffcc4ea1e0ba3ed97c04b6ab3db6d4ec020e0[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Thu Jun 7 10:17:06 2018 -0400
+
+    get notes method
+
+[33mcommit 7a839dc789ab406a119f214207fe6f8d393cd32a[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Wed Jun 6 16:34:49 2018 -0400
+
+    creating NoteService
+
+[33mcommit c28dcf62b35954b8be3fd9b7fe66dbd0d1440637[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Wed Jun 6 16:20:28 2018 -0400
+
+    added notes route
+
+[33mcommit f328e551bbceb1c18d8f12fe8229cef022a3c9ee[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Wed Jun 6 15:53:23 2018 -0400
+
+    change NoteCreate model
+
+[33mcommit 3f21161a82d8bff2c3200cd81ad1d61050937b38[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Wed Jun 6 15:25:55 2018 -0400
+
+    kb
+
+[33mcommit 4ee98f189e9141b7772c726dc9e0436e343f00e5[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Wed Jun 6 15:24:52 2018 -0400
+
+    added create view
+
+[33mcommit 882271ee59dd88163fe04f49c0f0ba0afb6a38a9[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Wed Jun 6 14:49:49 2018 -0400
+
+    adding views
+
+[33mcommit a963188d0e8415ecd439d29780cda45e2fd9c788[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Wed Jun 6 13:35:00 2018 -0400
+
+    set up db
+
+[33mcommit 173b3f1937d6d3dc114c73bbbe5cb258408f2205[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Wed Jun 6 12:10:12 2018 -0400
+
+    bugs fixed 2.2
+
+[33mcommit dba62cc48e379b68c5d5efdc3afa3b33deebb3f0[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Wed Jun 6 11:22:02 2018 -0400
+
+    installed NuGet package to all
+
+[33mcommit bebcf9159e06bafb59f3a8a08b12444e7c52ce0c[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Mon Jun 4 13:31:36 2018 -0400
+
+    Add project files.
+
+[33mcommit 2241b33199b58ea6a110896bab783ad532be12c5[m
+Author: kyle beavin <kylebeavin@gmail.com>
+Date:   Mon Jun 4 13:31:27 2018 -0400
+
+    Add .gitignore and .gitattributes.
